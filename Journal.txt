@@ -1,1 +1,15 @@
 1) 31/07/2020: Hello World!
+
+2) 01/08/2020: Created a project based on Automata Theory: Deterministic Finite Acceptor.
+	       - It either accepts or rejects a input string after parsing it through the states
+                 based on defined transactions.
+	       - First I created a mental model of how would the things be handled, I thought about 
+		 utilising OOP paradigm for having seperate object for states.
+	       - Then had a rough model on paper about class needed and it's member elements & functions.
+	       - While coding it, I made a few changes.
+	       - Although those changes made it a bit efficient but I made it a bit complex, also it got 
+                 deviated from my object based design. NOT a good thing (need to fix this)
+	       - I should complete every aspects in paper before coding.
+	       - I have to mod it to hape proper object based design and declutter a bit
+	       - Also need to add mechanism to handle exceptions and errors.
+		
