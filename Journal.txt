@@ -13,3 +13,4 @@
 	       - I have to mod it to hape proper object based design and declutter a bit
 	       - Also need to add mechanism to handle exceptions and errors.
 		
+3) 02/08/2020: + Some simple mathematical problems (4X) from GeeksForGeeks.
