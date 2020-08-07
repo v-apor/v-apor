@@ -15,4 +15,8 @@
 		
 3) 02/08/2020: Some simple mathematical problems (4X) from GeeksForGeeks.
 
-4) 03/08/2020: GCD and LCM using Euclid's Algorithm.
+4) 03/08/2020: GCD and LCM using Euclid's Algorithm. + Adding Fractional Terms
+
+5) 04-06/08/2020: Had to travel from Durg to Pune round trip to get my stuffs, long road trip.
+
+6) 07/08/2020: nPr & nCr
