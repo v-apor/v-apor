@@ -20,3 +20,5 @@
 5) 04-06/08/2020: Had to travel from Durg to Pune round trip to get my stuffs, long road trip.
 
 6) 07/08/2020: nPr & nCr
+
+7) CodeForces Div3 round 661: A&B solved, B failed (Post Contest Self Competition)
