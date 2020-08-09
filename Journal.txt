@@ -21,4 +21,7 @@
 
 6) 07/08/2020: nPr & nCr
 
-7) CodeForces Div3 round 661: A&B solved, B failed (Post Contest Self Competition)
+7) 08/08/2020: CodeForces Div3 round 661: A&B solved, B failed (Post Contest Self Competition)
+
+8) 09/08/2020: Solved CF R661:C after looking at the editorial. Learning: Always carefully inspect the input. 
+	       If it is small we can take brute force approach!
