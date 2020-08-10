@@ -25,3 +25,8 @@
 
 8) 09/08/2020: Solved CF R661:C after looking at the editorial. Learning: Always carefully inspect the input. 
 	       If it is small we can take brute force approach!
+
+9) 10/08/2020: CTCI: Stack Problem: Set of Stacks.
+	       + CodeChef Beginner Problem, to check Acceptance Criteria & Requirements. I'm thinking of solving Code Chef's long problems.
+	       + CodeChef Aug2020Long Challange (2x)
+	       + Read about memory mgmt and primitive types in Java(Thinking in Java)
