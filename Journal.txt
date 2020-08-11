@@ -30,3 +30,9 @@
 	       + CodeChef Beginner Problem, to check Acceptance Criteria & Requirements. I'm thinking of solving Code Chef's long problems.
 	       + CodeChef Aug2020Long Challange (2x)
 	       + Read about memory mgmt and primitive types in Java(Thinking in Java)
+
+10) 11/08/2020: CodeChef Aug2020Long (2x: 1AC, 1WA), Feeling good for the WA one, solved locally(it was a good and a bit challanging problem for me)
+		+ Learnt about lexicographicaly small order (order like a dictionary a->z)
+		+ Read about Java's scope and it's comparisions with C++.
+		+ javadoc (To get documentations out of comments)
+		+ CTCI problem: Implement Queue using 2 stacks.
