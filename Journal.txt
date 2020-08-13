@@ -51,4 +51,15 @@
 		+ CodeChef July2020Long (Archive) (2x) First 2, had a mistake on first (should have taken total as long but took int)
 			- https://www.codechef.com/JULY20B/problems/CHEFSTR1    (comment above)
 			- https://www.codechef.com/JULY20B/problems/CRDGAME
-		+ Downloading Gimp to create game's art (stuck at 97.17%) and i've reached my daily data cap.
+		+ Downloading Gimp to create game's art (stuck at 97.17%) and i've reached my daily data cap. (Finally downloaded last 2.83% @ 6.4-8kbps!)
+
+12) 13/08/2020: + GameDev: 
+			- Created Player and Enemy Character Art.
+			- Worked with RigidBody and Box Collider component (Inbuilt) 
+			- Added player movement 
+			- Animated Player Character
+			- Added Player health and enemy collision damage
+		+ System Administration:
+			- Windows server user managment and access control
+			- netstat command
+		+ GFG easy problem: check if array is sorted or not
