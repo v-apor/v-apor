@@ -63,3 +63,15 @@
 			- Windows server user managment and access control
 			- netstat command
 		+ GFG easy problem: check if array is sorted or not
+
+13) 14/08/2020: + CodeChef July long Chess problem: Put not the most good structured code but it works and is efficient;
+		  	- there are way's to make the code more readable, i'll try to make my code more readable going forward.
+		+ CTCI: Sorting a Stack, good one (used one other stack and one int variable)
+		+ Java: 
+			- Control flow (skim)
+			- constructors and 'this' keyword!
+		+ Game Dev: Enemy Spawning Mechanics (Random Location + Spawn Rate)
+
+14) 15/08/2020: + CodeChef: 2020JulyLong: Finding a missing vertex from set of rectangles. (XOR experience helped to find unique)
+		+ CodeForces 1100 Implementation Problem: This problem had a lot of branches and I made a mistake naming a variable,
+			- Note: Always use unambiguous names instead of array when possible (here we only had 3 variables and I used array, BAD IDEA)
