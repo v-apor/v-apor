@@ -75,3 +75,9 @@
 14) 15/08/2020: + CodeChef: 2020JulyLong: Finding a missing vertex from set of rectangles. (XOR experience helped to find unique)
 		+ CodeForces 1100 Implementation Problem: This problem had a lot of branches and I made a mistake naming a variable,
 			- Note: Always use unambiguous names instead of array when possible (here we only had 3 variables and I used array, BAD IDEA)
+
+15) 16/08/2020: + Networking (Just Ping tbh) on Windows10 as host and Ubuntu as Guest on Virtual-box
+			- Learned about NAT (Way to save IP addresses if only being used privately, from what I understood)
+			- Changed network of guest to bridged (Need to know more about this)
+			- Learnt about changing the inbound rules of windows (Allowed Files and Printer rule required for pinging)
+		+ Started with github pages, created a repository and uploaded index.md page (Hello World!), it worked :)
