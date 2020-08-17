@@ -81,3 +81,8 @@
 			- Changed network of guest to bridged (Need to know more about this)
 			- Learnt about changing the inbound rules of windows (Allowed Files and Printer rule required for pinging)
 		+ Started with github pages, created a repository and uploaded index.md page (Hello World!), it worked :)
+
+16) 17/08/2020: + Spent too much time on CodeChef AugLong (check 11/08/2020) lexicographicaly problem; I got my previous mistake, but even after fixing i'm getting WA,
+		  IDK what's wrong!
+		+ Got results of AugLongChallange, Got Rank: 15869, Points: 300
+		+ CodeChef June2020Long 1st problem AC
