@@ -86,3 +86,8 @@
 		  IDK what's wrong!
 		+ Got results of AugLongChallange, Got Rank: 15869, Points: 300
 		+ CodeChef June2020Long 1st problem AC
+
+17) 18/08/2020: + CodeChef JuneLong2020 (2x), I did a mistake on (https://www.codechef.com/JUNE20B/problems/CHFICRM) where after breaking from inner loop, I was not taking,
+		  care of the input remaining; fixed it later!
+		+ Initializations in java and Emums
+		+ Tried to solve (https://www.codechef.com/JUNE20B/problems/EOEO) it's easy but I couldn't solve, maybe cos it's late & I'm sleepyzzz
