@@ -91,3 +91,11 @@
 		  care of the input remaining; fixed it later!
 		+ Initializations in java and Emums
 		+ Tried to solve (https://www.codechef.com/JUNE20B/problems/EOEO) it's easy but I couldn't solve, maybe cos it's late & I'm sleepyzzz
+
+18) 19/08/2020: + Solved CodeChef (above) taking help from editorial, it had a very elegent and clean solution! Good Problem (problem-solving/CodeChef/June2020Long/TJerry.java)
+		+ CodeChef June2020Long Matrix Problem (repo/EvenMat.java) (AC, but I didn't follow DRY: Do Not Reapeat Yourself)
+		+ Just noticed 2* mark in my CodeChef profile, must be b'cos of Aug2020Long
+		+ Java Packages (Test Failed, need to explore more)
+		+ CTCI/CatsNDogs, LinkedList (Naive) and Queue (Efficient implementation).
+		+ Just got to know what is "md" (as in Github's readme.md is markdown!!)
+		+ Added Github profile picture, added description and modified landing page's readme.
