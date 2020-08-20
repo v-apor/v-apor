@@ -99,3 +99,9 @@
 		+ CTCI/CatsNDogs, LinkedList (Naive) and Queue (Efficient implementation).
 		+ Just got to know what is "md" (as in Github's readme.md is markdown!!)
 		+ Added Github profile picture, added description and modified landing page's readme.
+
+19) 20/08/2020: + CodeChef May2020Long Easy (https://www.codechef.com/problems/COVID19), fixed through editorial.
+			- Note: Use extra DS if required to simplify things, first priority is to solve/ not to find most efficient solution.
+		+ Access Specifiers in Java
+		+ CodeChef May2020 Isolation.
+		+ Something New: PowerShell Script to compile and run a java code.
