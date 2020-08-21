@@ -105,3 +105,15 @@
 		+ Access Specifiers in Java
 		+ CodeChef May2020 Isolation.
 		+ Something New: PowerShell Script to compile and run a java code.
+
+20) 21/08/2020: + Finding duplicate in an array LeetCode 287 without modifying array and using only O(1) space.
+			- Man this is difficult, I can solve it using frequency array but it takes O(n) space
+			- There is intuitive approach using 2 pointer and cycle (got to know from editorial/youtube)
+			- I'm not able to get the concept, need to give it more time
+			- Solved it using editorial
+			- It's implementation is called Floyd's method (Hare & Turtle), it only works for this exact problem (constraints included) 
+			- I know how to solve using this approach but don't know why it works (I understood the finding if it's cycle or not part, nothing after that)
+			- BTW checked out Joma (YouTubes) cool video on "If programming was Anime". It's based around solving this problem!! 
+		+ New: Python Testing (Unit): PyTest
+		+ Composition (Nothing New Here, just using other class objects in new class definition) 
+		+ toString() This is cool, gotta explore more (it's way define what happens if you print an object of a class)
