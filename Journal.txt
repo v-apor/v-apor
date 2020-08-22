@@ -117,3 +117,6 @@
 		+ New: Python Testing (Unit): PyTest
 		+ Composition (Nothing New Here, just using other class objects in new class definition) 
 		+ toString() This is cool, gotta explore more (it's way define what happens if you print an object of a class)
+
+21) 22/08/2020: + GeeksForGeeks Array Problem, ended up trying complicated approach (binary search) which didn't even work, then solved with naive approach
+		  - https://practice.geeksforgeeks.org/problems/count-of-smaller-elements/0
