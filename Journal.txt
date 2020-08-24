@@ -120,3 +120,6 @@
 
 21) 22/08/2020: + GeeksForGeeks Array Problem, ended up trying complicated approach (binary search) which didn't even work, then solved with naive approach
 		  - https://practice.geeksforgeeks.org/problems/count-of-smaller-elements/0
+
+22) 24/08/2020: + LeetCode Dutch Flag (sorting list of 0s, 1s and 2s)
+		+ GFG Finding Duplicate and Missing Element
