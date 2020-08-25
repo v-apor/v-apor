@@ -128,3 +128,4 @@
 23) 25/08/2020: + Docker Install + Check it out (It's great so far!!)
 		+ Inheritance Constructor Hierarchy 
 		+ Problem Solving (Merging Sorted Array): Started solving (To tired as of now, will continue tomorrow)
+		  - Update: Couldn't sleep without solving!! So, solved it!
