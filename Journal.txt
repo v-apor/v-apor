@@ -131,6 +131,12 @@
 		  - Update: Couldn't sleep without solving!! So, solved it!
 
 24) 26/08/2020: + Docker Practice 
-			- creating new image (Ubuntu with added readme) using "docker commit"
+			- creating new image (Ubuntu with added readme) using a current container "docker commit"
 		+ Problems A2OJ: First Time Ladder problems (IDK WA on last one Arabic-English one) 
 		+ Inheritance: When base class has parameterized constructor!
+
+25) 27/08/2020: + Docker:	
+			- Create new Image with "DockerFile" (Specifying commands to run after creating a new container from already available image)
+			- Copy files from host to container using DockerFile
+		+ Problems: Linked List (HackerRank)
+		+ OOP Upcasting while Inheritance. Ask yourself: Will I ever need to upcast? If answer is yes then only use inheritance
