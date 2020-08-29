@@ -140,3 +140,7 @@
 			- Copy files from host to container using DockerFile
 		+ Problems: Linked List (HackerRank)
 		+ OOP Upcasting while Inheritance. Ask yourself: Will I ever need to upcast? If answer is yes then only use inheritance
+
+26) 28/08/2020: + A2OJ Ladder, easy, nth largest
+
+27) 29/08/2020: + Fixed desktop, fresh installed Ubuntu 20.04, installed essentials like chrome+chromium, git, GCC (build-essentials), vscode etc.
