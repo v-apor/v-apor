@@ -144,3 +144,7 @@
 26) 28/08/2020: + A2OJ Ladder, easy, nth largest
 
 27) 29/08/2020: + Fixed desktop, fresh installed Ubuntu 20.04, installed essentials like chrome+chromium, git, GCC (build-essentials), vscode etc.
+
+28) 30/08/2020: + A2OJ ladder loops problem 
+				+ CodeForces Round 666:Div2 (My First), A(AC), B(WA on tc4)
+				+ Enrolled Linux and Statistics Course
