@@ -148,3 +148,5 @@
 28) 30/08/2020: + A2OJ ladder loops problem 
 				+ CodeForces Round 666:Div2 (My First), A(AC), B(WA on tc4)
 				+ Enrolled Linux and Statistics Course
+
+29) 31/08/2020: + Linux Fundamentals 
