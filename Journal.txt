@@ -150,3 +150,7 @@
 				+ Enrolled Linux and Statistics Course
 
 29) 31/08/2020: + Linux Fundamentals 
+
+30) 01/09/2020: + Linux Permissions (+ umask, quite cool)
+				  	- Finding files, text editors etc
+				+ Installed Anaconda/Ubuntu20.04 + steam + libre office
