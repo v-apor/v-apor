@@ -153,4 +153,12 @@
 
 30) 01/09/2020: + Linux Permissions (+ umask, quite cool)
 				  	- Finding files, text editors etc
-				+ Installed Anaconda/Ubuntu20.04 + steam + libre office
+		 + Installed Anaconda/Ubuntu20.04 + steam + libre office
+				
+31) 02/09/2020: + Linux: rm, cp, mv, gzip, tar (overview)
+			- Wildcards: ('*' -> all possible) ('?' -> exactly one character) ('[aeiou]' etc ->character class i.e either a or e or ... or u; 
+			  [0-9], [a-z] from 0->9 and a->z resp) ('[[:digit:]]' for digits)
+		+ Problem Solve: A20J lil Exp: President (good one) Time Limit Exceeded, need to find efficient method
+			- std input(0)(<), std output(1)(>) and std error(2)(2>) redirection
+			- Searching: grep: search for a text within a  file (Syntax: grep pattern filename)
+			- aliases			
