@@ -159,6 +159,9 @@
 			- Wildcards: ('*' -> all possible) ('?' -> exactly one character) ('[aeiou]' etc ->character class i.e either a or e or ... or u; 
 			  [0-9], [a-z] from 0->9 and a->z resp) ('[[:digit:]]' for digits)
 		+ Problem Solve: A20J lil Exp: President (good one) Time Limit Exceeded, need to find efficient method
+		
+32) 03/09/2020: + Android: Kotlin Test Script
+		 + New responsibilities: GIT/Version Control + DevOps 		
 			- std input(0)(<), std output(1)(>) and std error(2)(2>) redirection
 			- Searching: grep: search for a text within a  file (Syntax: grep pattern filename)
 			- aliases			
