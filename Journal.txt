@@ -164,4 +164,10 @@
 			- aliases			
 			
 32) 03/09/2020: + Android: Kotlin Test Script
-		+ New responsibilities: GIT/Version Control + DevOps 				
+		+ New responsibilities: GIT/Version Control + DevOps 
+						
+33) 04/09/2020: + Problem Solving:
+			- Binary Search tree implementation practice.
+			- Problem: CTCI Minimum BST from a sorted array
+		+ Linux Processes and Scheduling Processes. Just took overview but would love to explore chron scheduling more
+		+ CodeForces Round 667: Div3 Solved 2
