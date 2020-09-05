@@ -171,3 +171,5 @@
 			- Problem: CTCI Minimum BST from a sorted array
 		+ Linux Processes and Scheduling Processes. Just took overview but would love to explore chron scheduling more
 		+ CodeForces Round 667: Div3 Solved 2
+
+34) 05/09/2020: + Codeforce 1v1 with lanuk, he introduced me to this 1v1 based on Codeforces via Discord; It was good one, pushed myself. Scored 0 (facepalm) but it was fun.
