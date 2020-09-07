@@ -173,3 +173,13 @@
 		+ CodeForces Round 667: Div3 Solved 2
 
 34) 05/09/2020: + Codeforce 1v1 with lanuk, he introduced me to this 1v1 based on Codeforces via Discord; It was good one, pushed myself. Scored 0 (facepalm) but it was fun.
+
+35) 06/09/2020: + Linux Software Package Manager: 
+			- RPM: Redhat, CentOS
+			- APT: Ubuntu
+
+36) 07/09/2020: + Linux: New Shell Scripting Course
+			- Install vagrant + create VMs and set up networking among them as well as with host
+			- Bash Scripts: user defined and system variables, printing, if conditions, exit
+			- Bash Script to add user
+		+ A20J problems: 3x ladder 11
