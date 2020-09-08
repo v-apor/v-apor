@@ -183,3 +183,10 @@
 			- Bash Scripts: user defined and system variables, printing, if conditions, exit
 			- Bash Script to add user
 		+ A20J problems: 3x ladder 11
+
+37) 08/09/2020: + Linux: Shell Scripting
+			- Generating Passwords (Random)
+			- Positional Parameters
+			- for loops and arguments to script and PATH variable
+			- While Loop
+		+ Problems A2OJ: 4,5,6,7 and 8
