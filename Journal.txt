@@ -189,4 +189,9 @@
 			- Positional Parameters
 			- for loops and arguments to script and PATH variable
 			- While Loop
+			- Project: Password Generation, modify previous project of user creation for new employees via helpdesk
 		+ Problems A2OJ: 4,5,6,7 and 8
+
+38) 09/09/2020: + Linux: Shell Scripting
+			- I/O redirection + project
+		+ Problem Solving: A2OJ ladder 11: problem #s: 9,10,11 & 12 
