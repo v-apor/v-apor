@@ -195,3 +195,7 @@
 38) 09/09/2020: + Linux: Shell Scripting
 			- I/O redirection + project
 		+ Problem Solving: A2OJ ladder 11: problem #s: 9,10,11 & 12 
+
+39) 10/09/2020: + Linux Script: 
+			- Functions, Case Statement, Deleting Users and Project
+		+ A2OJ L11 problems: 13,14,15,16,17,18,19 & 20
