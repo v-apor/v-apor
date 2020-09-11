@@ -199,3 +199,8 @@
 39) 10/09/2020: + Linux Script: 
 			- Functions, Case Statement, Deleting Users and Project
 		+ A2OJ L11 problems: 13,14,15,16,17,18,19 & 20
+
+40) 11/09/2020: + Linux Script:
+			- cut, grep, awk, etc
+		+ A2OJ problem: 1x
+		(Had high work commitment today)
