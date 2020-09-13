@@ -207,3 +207,5 @@
 		+ update: it's 0200hr 12/09/2020, A2OJ 4x ladder 11 (Can't go Soft!!)
 
 41) 12/09/2020: + A2OJ ladder 11 3x
+
+42) 13/09/2020: + A2OJ ladder 11 1x problem #30
