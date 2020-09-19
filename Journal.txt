@@ -217,3 +217,6 @@
 45) 17/09/2020: + A2OJ L11 #34 & #35(Math) took editorial's help/ should have used pen and paper first!
 
 46) 18/09/2020: + A2OJ L11 problem #36
+
+47) 19/09/2020: + Linux Shell Scripting Concluded.
+		+ Codeforces Div2 Round 671: Solved A & D1
