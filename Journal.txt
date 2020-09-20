@@ -220,3 +220,5 @@
 
 47) 19/09/2020: + Linux Shell Scripting Concluded.
 		+ Codeforces Div2 Round 671: Solved A & D1
+
+48) 20/09/2020: + Revised ML basics
