@@ -226,3 +226,8 @@
 49) 21/09/2020: + Leetcode: Remove duplicates from sorted array.
 		+ Linear Regression Explore
 		+ CS50 web started
+
+50) 22/09/2020: + Leetcode 1x
+		+ CS50 web HTML/CSS and GIT
+		+ Gradient Descent & cost function
+		
