@@ -230,4 +230,7 @@
 50) 22/09/2020: + Leetcode 1x
 		+ CS50 web HTML/CSS and GIT
 		+ Gradient Descent & cost function
-		
+		+ A2OJ 1x L11 problem #37
+
+51) 23/09/2020: + CS50 Web Lecture 3: Python skim Fundamentals + Decorators + Exceptions
+		+ Problem solve Leetcode 2x
