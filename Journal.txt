@@ -235,6 +235,11 @@
 51) 23/09/2020: + CS50 Web Lecture 3: Python skim Fundamentals + Decorators + Exceptions
 		+ Problem solve Leetcode 2x
 
-52) 24/09/2020: + CS50 Web: Django
+52) 24/09/2020: + CS50 Web: Django: Installation, Applications, variable placing and other basics
 		+ Multivariate Linear regression (multiple features), Regression optimisation processes
 		+ Problem Solve Leetcode Easy: https://leetcode.com/problems/shuffle-the-array/
+
+53) 25/09/2020: + CS50 Web: Django: Static, CSRF, Sessions etc.
+		+ Study about CSRF from Computerphille.
+		+ Problem Solve, Leetcode easy: https://leetcode.com/problems/maximum-number-of-balloons/submissions/
+		
