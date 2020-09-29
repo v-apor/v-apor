@@ -242,4 +242,12 @@
 53) 25/09/2020: + CS50 Web: Django: Static, CSRF, Sessions etc.
 		+ Study about CSRF from Computerphille.
 		+ Problem Solve, Leetcode easy: https://leetcode.com/problems/maximum-number-of-balloons/submissions/
+
+54) 26/09/2020: + CS50 Web: SQLite and Django Migrations (need deeper dive)
+
+55) 27/09/2020: + Linear Regression Practice
+
+56) 28/09/2020: + Arrays Problems refresh
+
+57) 29/09/2020: + Arrays Intermediate: Union and Intersection
 		
