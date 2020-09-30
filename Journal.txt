@@ -251,3 +251,6 @@
 
 57) 29/09/2020: + Arrays Intermediate: Union and Intersection
 		
+58) 30/09/2020: + CS50 Web: Django/Database Handel using /admin, Authentication Implementation
+		+ Problem Solve Array Intermediate (1x) Rotate Array Cyclic by 1
+		+ JavaScript CS50 Web
