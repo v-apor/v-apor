@@ -253,4 +253,9 @@
 		
 58) 30/09/2020: + CS50 Web: Django/Database Handel using /admin, Authentication Implementation
 		+ Problem Solve Array Intermediate (1x) Rotate Array Cyclic by 1
-		+ JavaScript CS50 Web
+		+ JavaScript CS50 Web: Variables, Events
+
+59) 01/10/2020: + CS50 Web: JavaScript: APIs
+		+ Hacktoberfest Beginner Pull Request: Quote
+		+ CS50 Web: UI/UX basics 
+		+ Problem Solve: Missing Element Array (Intermediate)
