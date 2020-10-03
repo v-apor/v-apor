@@ -259,3 +259,9 @@
 		+ Hacktoberfest Beginner Pull Request: Quote
 		+ CS50 Web: UI/UX basics 
 		+ Problem Solve: Missing Element Array (Intermediate)
+
+60) 02/10/2020: + Hacktoberfest 
+		+ Problem Solve Arrays Intermediate (1x): Find all pairs on integer array whose sum is equal to given number.
+
+61) 03/10/2020: + GoLang Install + HelloWorld!
+		+ Simple PR on AI Courses
