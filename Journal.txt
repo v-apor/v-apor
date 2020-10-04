@@ -265,3 +265,5 @@
 
 61) 03/10/2020: + GoLang Install + HelloWorld!
 		+ Simple PR on AI Courses
+
+62) 04/10/2020: + Codeforces Contest #675(Div2): Solved A
