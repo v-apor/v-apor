@@ -269,3 +269,6 @@
 62) 04/10/2020: + Codeforces Contest #675(Div2): Solved A
 
 63) 05/10/2020: + Started with Blockchain.
+
+64) 06/10/2020: + Blockchain: Overview, ledger, Byzantine Generals Problem in decentralized system, Hashes, Nounces & it's relation with mining.
+		+ Java Language features review GFG
