@@ -272,3 +272,7 @@
 
 64) 06/10/2020: + Blockchain: Overview, ledger, Byzantine Generals Problem in decentralized system, Hashes, Nounces & it's relation with mining.
 		+ Java Language features review GFG
+
+65) 07/10/2020: + Blockchain: Implemented structure of blockchain and it's verification + Installed Flask, Postman
+		+ Analysis of ALgorithms, Time Complexity, Space Complexity(Total Space), Auxilary Space(Extra Space) (Prefered)
+		+ 
