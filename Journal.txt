@@ -275,4 +275,6 @@
 
 65) 07/10/2020: + Blockchain: Implemented structure of blockchain and it's verification + Installed Flask, Postman
 		+ Analysis of ALgorithms, Time Complexity, Space Complexity(Total Space), Auxilary Space(Extra Space) (Prefered)
-		+ 
+		
+66) 08/10/2020: + Blockchain: Complete Implementation
+		+ Arrays (Basic) + Problem: Move Zeros
