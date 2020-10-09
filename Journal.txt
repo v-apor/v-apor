@@ -278,3 +278,6 @@
 		
 66) 08/10/2020: + Blockchain: Complete Implementation
 		+ Arrays (Basic) + Problem: Move Zeros
+
+67) 09/10/2020: + Blockchain Revise, 3Blue1Brown clip on crypto currency.
+		+ Array Problems (4x)
