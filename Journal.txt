@@ -281,3 +281,11 @@
 
 67) 09/10/2020: + Blockchain Revise, 3Blue1Brown clip on crypto currency.
 		+ Array Problems (4x)
+
+68) 10/10/2020: + Blockchain: Crypto currency detailed + brainstorm
+		+ Global Round 11: (Forgot about the contest!! 1hr left) zero solved
+
+69) 11/10/2020: nothing...
+
+70) 12/10/2020: + Tips about coding interviews from Clement
+		+ Try three sum problem: not complete yet
