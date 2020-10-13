@@ -289,3 +289,8 @@
 
 70) 12/10/2020: + Tips about coding interviews from Clement
 		+ Try three sum problem: not complete yet
+
+71) 13/10/2020: + Problem solve array medium (2x) Find 3 pair sum + smallest difference pair
+		+ Blockchain: Transactions Intuition.
+		+ Python script for getting list of all files (recursively)
+		+ Checkout GitHub codespaces beta, python, java, cpp, go compiler found; couldn't get kotlin file to compile.
