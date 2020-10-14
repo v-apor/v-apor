@@ -294,3 +294,6 @@
 		+ Blockchain: Transactions Intuition.
 		+ Python script for getting list of all files (recursively)
 		+ Checkout GitHub codespaces beta, python, java, cpp, go compiler found; couldn't get kotlin file to compile.
+
+72) 14/10/2020: + Array Problems(2x) Move Element + isMonotonic
+		+ Blockchain: Etherium and Smart Contracts
