@@ -297,3 +297,7 @@
 
 72) 14/10/2020: + Array Problems(2x) Move Element + isMonotonic
 		+ Blockchain: Etherium and Smart Contracts
+
+73) 15/10/2020: + Arrays Medium(2x) Longest Peak + Spiral Traversal
+		+ Blockchain: Decentralized Autonomous Organizations(DAOs), DAO Attack Etherium, Soft & Hard Forks, Initial Coin Offering(ICO) basics.
+		  
