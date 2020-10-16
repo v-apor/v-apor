@@ -301,3 +301,4 @@
 73) 15/10/2020: + Arrays Medium(2x) Longest Peak + Spiral Traversal
 		+ Blockchain: Decentralized Autonomous Organizations(DAOs), DAO Attack Etherium, Soft & Hard Forks, Initial Coin Offering(ICO) basics.
 		  
+74) 16/10/2020: + Blockchain white paper and case studies.
