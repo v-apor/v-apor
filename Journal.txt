@@ -302,3 +302,8 @@
 		+ Blockchain: Decentralized Autonomous Organizations(DAOs), DAO Attack Etherium, Soft & Hard Forks, Initial Coin Offering(ICO) basics.
 		  
 74) 16/10/2020: + Blockchain white paper and case studies.
+
+75) 17/10/2020: + Problems Ladder by Love started, solved 3(x); Couldn't solve 0s, 1s and 2s sorting problem (again!!!!!!)
+		+ Codeforces Raif Round 1: Solved A, C: Time limit exceeded.
+
+76) 18/10/2020: + Codeforces Round676 Division II, Solved 1x
