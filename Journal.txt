@@ -312,3 +312,6 @@
 
 78) 20/10/2020: + Arrays problem (3x) + try longest subarray sum
 		+ Codeforces Round 677 Div III: Solved A and B(Most time taking and satisfying)
+
+79) 21/10/2020: + Arrays problem (1x) Max Sub Array Sum (Kadane's algo)
+		+ Data Preprocessing 
