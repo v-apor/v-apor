@@ -315,3 +315,6 @@
 
 79) 21/10/2020: + Arrays problem (1x) Max Sub Array Sum (Kadane's algo)
 		+ Data Preprocessing 
+
+80) 22/10/2020: + Arrays problems (2x): Min Jump and Find Duplicate (feels good to see progress....ability to solve myself)
+		+ Data Preprocessing: Feature Scaling 
