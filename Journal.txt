@@ -319,4 +319,6 @@
 80) 22/10/2020: + Arrays problems (2x): Min Jump and Find Duplicate (feels good to see progress....ability to solve myself)
 		+ Data Preprocessing: Feature Scaling 
 
-81) 23/10/2020: + Linear Regression
+81) 23/10/2020: + Linear Regression: Experience vs Salary
+
+82) 24/10/2020: + Multiple Linear Regression: Intuition
