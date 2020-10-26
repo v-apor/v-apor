@@ -324,3 +324,5 @@
 82) 24/10/2020: + Multiple Linear Regression: Intuition
 
 83) 25/10/2020: + Genetic Algorithm on Knapsack Problem
+
+84) 26/10/2020: + Data Analysis Intro + Regression from Scratch using GOOGL stock price (time series)
