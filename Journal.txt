@@ -326,3 +326,9 @@
 83) 25/10/2020: + Genetic Algorithm on Knapsack Problem
 
 84) 26/10/2020: + Data Analysis Intro + Regression from Scratch using GOOGL stock price (time series)
+
+85) 27/10/2020: + Multiple Linear Regression + Data Analytics.
+		+ Try Problem Merge 2 sorted Arrays in place.
+		+ Lex's Podcast with George Hotz
+		+ Install Ubuntu on VM
+	
