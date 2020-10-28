@@ -331,4 +331,6 @@
 		+ Try Problem Merge 2 sorted Arrays in place.
 		+ Lex's Podcast with George Hotz
 		+ Install Ubuntu on VM
+		
+86) 28/10/2020: + Polynomeal regression
 	
