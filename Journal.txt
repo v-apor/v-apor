@@ -334,3 +334,4 @@
 		
 86) 28/10/2020: + Polynomeal regression
 	
+87) 29/10/2020: + Support Vector Regression
