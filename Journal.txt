@@ -339,3 +339,6 @@
 88) 30/10/2020: + GO Lang introduction
 
 89) 31/10/2020: + GoLang Datatypes
+
+90) 02/11/2020: + Problem Solve Kadane's algo + attempt merge intervals(naive done)
+		+ Decision Tree Regression Intuition and Implementation  (Didn't like this algo, gotta look for more use cases)
