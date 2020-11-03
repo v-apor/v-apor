@@ -342,3 +342,6 @@
 
 90) 02/11/2020: + Problem Solve Kadane's algo + attempt merge intervals(naive done)
 		+ Decision Tree Regression Intuition and Implementation  (Didn't like this algo, gotta look for more use cases)
+
+91) 03/11/2020: + Random Forest Regression + Regression Section Complete
+		+ Arrays problem: Merge Interval (Leetcode Medium)
