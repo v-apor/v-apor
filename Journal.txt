@@ -345,3 +345,6 @@
 
 91) 03/11/2020: + Random Forest Regression + Regression Section Complete
 		+ Arrays problem: Merge Interval (Leetcode Medium)
+
+92) 04/11/2020: + Classification: Logistic Regression Implementation
+		+ Problem Solve 1x Next Permutation (Leetcode Medium)
