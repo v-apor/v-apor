@@ -351,4 +351,4 @@
 
 93) 05/11/2020: + KNearestNeighbor Classifier Implementation
 		+ Support Vector Machines Implementation
-		+ 
+		+ Dabble in GIT Branches
