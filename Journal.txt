@@ -348,3 +348,7 @@
 
 92) 04/11/2020: + Classification: Logistic Regression Implementation
 		+ Problem Solve 1x Next Permutation (Leetcode Medium)
+
+93) 05/11/2020: + KNearestNeighbor Classifier Implementation
+		+ Support Vector Machines Implementation
+		+ 
