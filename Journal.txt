@@ -356,3 +356,6 @@
 94) 06/11/2020: + GO Lang: Using external/overTheWeb package
 
 95) 07/11/2020: + SVM Kernal 
+
+96) 09/11/2020: + Naive Bayes Classifier
+		+ Decision Tree Classifier
