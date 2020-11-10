@@ -359,3 +359,5 @@
 
 96) 09/11/2020: + Naive Bayes Classifier
 		+ Decision Tree Classifier
+
+97) 10/11/2020: + Random Forest Classification + Classification Models Comparision
