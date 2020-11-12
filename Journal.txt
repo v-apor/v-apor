@@ -365,3 +365,8 @@
 98) 11/11/2020: + Confusion Matrix, False Positive (Type I) and False Negative (Type II)
 		+ K-Means Clustering
 		+ GoLang Started - Todd McLeod
+
+99) 12/11/2020: + GoLang: Environment Setup
+		+ Hierarchical Clustering
+		+ Association Rule Learning: Apriori
+		+ Codeforce 900: Sorting/Greedy 
