@@ -370,3 +370,7 @@
 		+ Hierarchical Clustering
 		+ Association Rule Learning: Apriori
 		+ Codeforce 900: Sorting/Greedy 
+
+100) 13/11/2020: + GoLang: Packages, Types, Variables etc
+		 + Problem solve 1x Arrays
+		 + Introduction to Reinforcement Learning - David Silver, Deep Mind
