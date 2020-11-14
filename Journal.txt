@@ -374,3 +374,5 @@
 100) 13/11/2020: + GoLang: Packages, Types, Variables etc
 		 + Problem solve 1x Arrays
 		 + Introduction to Reinforcement Learning - David Silver, Deep Mind
+
+101) 14/11/2020: + Codeforces 800: Sorting: ArrayRearrange
