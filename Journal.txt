@@ -378,3 +378,7 @@
 101) 14/11/2020: + Codeforces 800: Sorting: ArrayRearrange
 
 102) 16/11/2020: + GoLang "fmt" pkg print exercise 1 
+
+103) 17/11/2020: + GoLang Fundamentals: Numeric Types, Strings, Bit Shifting etc.
+		 + Codeforces Round684(Div2): Solved A 1x
+		 + Reinforcement Learning Upper Bound
