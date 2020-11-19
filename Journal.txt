@@ -385,3 +385,6 @@
 
 104) 18/11/2020: + GoLang Control Flow
 		 + Reinforcement Learning Upper Bound: Implementation: (Didn't get this....)
+
+105) 19/11/2020: + Golang Arrays and Slices
+		 + Problem Solve Implementation/Brute Codeforces
