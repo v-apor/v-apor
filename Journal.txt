@@ -388,3 +388,6 @@
 
 105) 19/11/2020: + Golang Arrays and Slices
 		 + Problem Solve Implementation/Brute Codeforces
+
+106) 20/11/2020: + Natural Language Processing: Bag of Words (Cocept)
+		 + LeetCode Easy 1x
