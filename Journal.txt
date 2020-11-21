@@ -391,3 +391,6 @@
 
 106) 20/11/2020: + Natural Language Processing: Bag of Words (Cocept)
 		 + LeetCode Easy 1x
+
+107) 21/11/2020: + KaggleDays Meetup Delhi: Understanding Neural Networks by Joshua Starmer
+		 + GoLang Practice 1/4: Grouping: Array/Slice
