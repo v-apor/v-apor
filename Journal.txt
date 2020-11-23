@@ -394,3 +394,5 @@
 
 107) 21/11/2020: + KaggleDays Meetup Delhi: Understanding Neural Networks by Joshua Starmer
 		 + GoLang Practice 1/4: Grouping: Array/Slice
+
+108) 22/11/2020: Sentiment Analysis: Restaurant' review: BagOfWords/Naive Bayes
