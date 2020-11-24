@@ -395,4 +395,11 @@
 107) 21/11/2020: + KaggleDays Meetup Delhi: Understanding Neural Networks by Joshua Starmer
 		 + GoLang Practice 1/4: Grouping: Array/Slice
 
-108) 22/11/2020: Sentiment Analysis: Restaurant' review: BagOfWords/Naive Bayes
+108) 22/11/2020: + Golang Slices practice
+
+109) 23/11/2020: + Sentiment Analysis: Restaurant' review: BagOfWords/Naive Bayes
+
+110) 24/11/2020: + Golang: Struct understanding w/ practice
+		 + Codeforces Div3 R686: Solved A
+		 + Deep Learning: Activation Functions, How trained NNs perform, How NNs are trained.
+
