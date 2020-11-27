@@ -403,3 +403,8 @@
 		 + Codeforces Div3 R686: Solved A
 		 + Deep Learning: Activation Functions, How trained NNs perform, How NNs are trained.
 
+111) 25/11/2020: + ANN implementation for bank retention prediction using Tensorflow.
+
+112) 26/11/2020: Codeforces: String Implementation/Brute
+
+113) 27/11/2020: + Convolutional Neural Networks Intuition.
