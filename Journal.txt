@@ -408,3 +408,9 @@
 112) 26/11/2020: Codeforces: String Implementation/Brute
 
 113) 27/11/2020: + Convolutional Neural Networks Intuition.
+
+114) 1/12/2020: + GIT Deep Understanding Basics
+
+115) 2/12/2020:	+ Convolutional Neural Network Implementation Complete
+				+ GIT Understanding continue
+				
