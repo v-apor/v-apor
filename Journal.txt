@@ -413,4 +413,7 @@
 
 115) 2/12/2020:	+ Convolutional Neural Network Implementation Complete
 				+ GIT Understanding continue
+
+116) 3/12/2020: + GIT Processes	
+				+ Codeforces Brute/Implementation
 				
