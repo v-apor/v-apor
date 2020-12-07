@@ -416,4 +416,8 @@
 
 116) 3/12/2020: + GIT Processes	
 				+ Codeforces Brute/Implementation
-				
+
+117) 4/12/2020: + Recursion Practice
+
+118) 5/12/2020: + GIT Branching Practice	
+				+ Codeforces Implementation Problem
