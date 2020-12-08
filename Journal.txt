@@ -419,5 +419,8 @@
 
 117) 4/12/2020: + Recursion Practice
 
-118) 5/12/2020: + GIT Branching Practice	
+118) 7/12/2020: + GIT Branching Practice	
 				+ Codeforces Implementation Problem
+
+119) 8/12/2020: + Recursion Practice Medium 3x
+				+ Git Upstream Practice
