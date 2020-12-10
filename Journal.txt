@@ -428,3 +428,9 @@
 120) 9/12/2020: + Recursion: Tower of Hanoi
 				+ Java sorting methods: Arrays.sort() + Collections.sort()
 				+ Sudoku Practice
+
+121) 10/12/2020: + Mathematics: Number systems
+				 + Sorting ALgorithms: Bubble + Selection + Insertion
+				 + Sudoku practice
+				 + English Language Grammer: Sentences + Subject/Predicate
+				
