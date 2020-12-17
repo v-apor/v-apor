@@ -433,4 +433,7 @@
 				 + Sorting ALgorithms: Bubble + Selection + Insertion
 				 + Sudoku practice
 				 + English Language Grammer: Sentences + Subject/Predicate
-				
+				 + HCF + LCM
+
+122) 17/12/2020: + QuickSort Partition function try(fail)
+				 + Number Systems: Fraction + Decimals
