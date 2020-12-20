@@ -437,3 +437,8 @@
 
 122) 17/12/2020: + QuickSort Partition function try(fail)
 				 + Number Systems: Fraction + Decimals
+
+123) 18/12/2020: + Strings Medium
+				 + Quadratic/Equations
+
+124) 20/12/2020: + Codeforces String easy/photos
