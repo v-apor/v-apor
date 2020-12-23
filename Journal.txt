@@ -442,3 +442,5 @@
 				 + Quadratic/Equations
 
 124) 20/12/2020: + Codeforces String easy/photos
+
+125) 23/12/2020: + QuickSort Partition Function (O(n) space though)
