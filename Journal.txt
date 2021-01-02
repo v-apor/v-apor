@@ -446,3 +446,11 @@
 125) 23/12/2020: + QuickSort Partition Function (O(n) space though)
 
 126) 26/12/2020: + Codeforces Arrays Easy
+
+127) 29/12/2020: + Codeforces Strings 800
+
+128) 31/12/2020: + GoodBye 2020 CodeForces contest upsolve B (post competition)
+
+129) 01/01/2021: + QuickSort (Lomuto partition implementation)
+
+130) 02/01/2021: + Codeforces Strings Implementation
