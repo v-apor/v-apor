@@ -454,3 +454,5 @@
 129) 01/01/2021: + QuickSort (Lomuto partition implementation)
 
 130) 02/01/2021: + Codeforces Strings Implementation
+
+131) 03/01/2021: + Codeforces Strings/Waste Implementation (fail)
