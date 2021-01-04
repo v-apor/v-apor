@@ -456,3 +456,7 @@
 130) 02/01/2021: + Codeforces Strings Implementation
 
 131) 03/01/2021: + Codeforces Strings/Waste Implementation (fail)
+
+132) 04/01/2021: + Codeforces Round 693(Div3) AC 1x WA 3x
+				 + Codeforces 03/01/2021 Solved + 1 more Strings
+				 + Mathematics: Percentage 
