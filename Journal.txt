@@ -460,3 +460,7 @@
 132) 04/01/2021: + Codeforces Round 693(Div3) AC 1x WA 3x
 				 + Codeforces 03/01/2021 Solved + 1 more Strings
 				 + Mathematics: Percentage 
+
+133) 05/01/2021: + Profit & Loss Problems
+				 + Java Exception Handling + 1 related Problem (Marathon)
+				 + Codeforces Round 694(Div2) A Accepted; B Time limit exceeded 
