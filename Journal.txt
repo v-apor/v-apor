@@ -464,3 +464,6 @@
 133) 05/01/2021: + Profit & Loss Problems
 				 + Java Exception Handling + 1 related Problem (Marathon)
 				 + Codeforces Round 694(Div2) A Accepted; B Time limit exceeded 
+
+134) 06/01/2021: + Ratio & Proportions
+				 + Codeforces Implementation Problem Easy (C+=)
