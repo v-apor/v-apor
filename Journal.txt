@@ -467,3 +467,7 @@
 
 134) 06/01/2021: + Ratio & Proportions
 				 + Codeforces Implementation Problem Easy (C+=)
+
+135) 07/01/2021: + Partnership Problems: Mathematics
+		 + Fail: Problem Four Number Max Multiple in array
+		 + Codeforces 1100: MiddleClass/ Did a lot of optimisation/ Time limit exceeded test case 9
