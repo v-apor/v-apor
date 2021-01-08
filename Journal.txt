@@ -471,3 +471,8 @@
 135) 07/01/2021: + Partnership Problems: Mathematics
 		 + Fail: Problem Four Number Max Multiple in array
 		 + Codeforces 1100: MiddleClass/ Did a lot of optimisation/ Time limit exceeded test case 9
+		 + Coursera: Nand to Tetris: Week 0: Logic Gates
+
+136) 08/01/2021: + Chain Rule: Mathematics
+				 + Creating Boolean Functions, using NAND Gates etc
+				 + Codeforces Round 695 Div 2: A Solved (After 2 WA)
