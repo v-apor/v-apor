@@ -476,3 +476,7 @@
 136) 08/01/2021: + Chain Rule: Mathematics
 				 + Creating Boolean Functions, using NAND Gates etc
 				 + Codeforces Round 695 Div 2: A Solved (After 2 WA)
+				 
+137) 09/01/2021: + Pipes & Cisterns: Quants
+		 + Recursion Revise (Sum till n)
+		 + BST Revise
