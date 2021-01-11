@@ -480,3 +480,9 @@
 137) 09/01/2021: + Pipes & Cisterns: Quants
 		 + Recursion Revise (Sum till n)
 		 + BST Revise
+
+138) 10/01/2021: + Time & Work: Quants
+				 + Codeforces 800 Runtime error(input format!) Safe.java
+
+139) 11/01/2021: + Speed, Distance & Time: Quants
+				 + Codeforces 1296/A; Implementation
