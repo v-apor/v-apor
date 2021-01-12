@@ -486,3 +486,6 @@
 
 139) 11/01/2021: + Speed, Distance & Time: Quants
 				 + Codeforces 1296/A; Implementation
+
+140) 12/01/2021: + Quants: Problems related to Trains & Water Stream
+				 + Strings started: Anagram
