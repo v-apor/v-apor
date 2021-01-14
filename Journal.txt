@@ -489,3 +489,7 @@
 
 140) 12/01/2021: + Quants: Problems related to Trains & Water Stream
 				 + Strings started: Anagram
+				 
+141) 13/01/2021: + Strings: Left most repeating element
+
+142) 14/01/2021: + 5 Layer Networking Model (Bits & Bytes of Computer Networking)
