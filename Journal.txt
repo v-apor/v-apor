@@ -499,3 +499,5 @@
 144) 16/01/2021: + Codeforces Easy
 
 145) 17/01/2021: + Easy: isPalindrome()
+
+146) 18/01/2021: + MongoDB CRUD operations basics
