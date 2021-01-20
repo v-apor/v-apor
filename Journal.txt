@@ -503,3 +503,6 @@
 146) 18/01/2021: + MongoDB CRUD operations basics
 
 147) 19/01/2021: + Intro to RESTful Services/APIs
+
+148) 20/01/2021: + Trivial Problems practice + Exception on input + string methods (5x)
+				 + 1x medium problem 
