@@ -506,3 +506,7 @@
 
 148) 20/01/2021: + Trivial Problems practice + Exception on input + string methods (5x)
 				 + 1x medium problem 
+		
+149) 21/01/2021: Practice Problems Implementation (5x)
+
+150) 22/01/2021: Problem: Binary to Decimal + Tru Decimal to Binary(incomplete)
