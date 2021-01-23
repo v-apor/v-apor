@@ -510,3 +510,5 @@
 149) 21/01/2021: Practice Problems Implementation (5x)
 
 150) 22/01/2021: Problem: Binary to Decimal + Tru Decimal to Binary(incomplete)
+
+151) 23/01/2021: Statistics Basics
