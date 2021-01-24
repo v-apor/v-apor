@@ -512,3 +512,5 @@
 150) 22/01/2021: Problem: Binary to Decimal + Tru Decimal to Binary(incomplete)
 
 151) 23/01/2021: Statistics Basics
+
+152) 24/01/2021: Decision Making: Reasoning
