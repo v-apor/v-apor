@@ -514,3 +514,5 @@
 151) 23/01/2021: Statistics Basics
 
 152) 24/01/2021: Decision Making: Reasoning
+
+153) 25/01/2021: Quants & Reasoning Practice
