@@ -527,4 +527,9 @@
 
 158) 02/02/2021: Leetcode Easy Implementation
 
-159) 08/02/2021: Hacking Study
+159) 04/02/2021: String Theoretical Problems
+
+160) 08/02/2021: Hacking Study
+
+161) 09/02/2021: + String Problems: GFG
+				 + Installing Kali + MAC address change + Network Basics
