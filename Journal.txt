@@ -533,3 +533,6 @@
 
 161) 09/02/2021: + String Problems: GFG
 				 + Installing Kali + MAC address change + Network Basics
+				 
+162) 11/02/2021: + Look Strig Problem GFG
+                 + Computer Fields
